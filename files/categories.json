@@ -1,0 +1,54 @@
+[{
+    "name": "small trees",
+    "itemId": "test",
+    "plants": [
+      {
+        "name": "pear",
+        "widthInMetres": 3,
+        "heightInMetres": 3,
+        "rootStock": "quince C",
+        "insectAttractor": true,
+        "imageUrl": "https://www.coopersofstortford.co.uk/images/products/medium/XYG81i.jpg"
+      },
+      {
+        "name": "plum",
+        "widthInMetres": 3,
+        "heightInMetres": 2.3,
+        "rootStock": "VVA-1",
+        "insectAttractor": true,
+        "imageUrl": "https://www.blackmoor.co.uk/images/images_big/Vicnewsq.JPG"
+      },
+      {
+        "name": "peach",
+        "widthInMetres": 3,
+        "heightInMetres": 2.3,
+        "rootStock": "VVA-1",
+        "insectAttractor": true,
+        "imageUrl": "https://www.gardeningknowhow.com/wp-content/uploads/2018/09/dwarf-peaches.jpg"
+      },
+      {
+        "name": "apricot",
+        "widthInMetres": 3,
+        "heightInMetres": 2.3,
+        "rootStock": "VVA-1",
+        "insectAttractor": true,
+        "imageUrl": "https://gardenerspath.com/wp-content/uploads/2021/08/How-to-Grow-Apricots-FB.jpg"
+      },
+      {
+        "name": "apple",
+        "widthInMetres": 1.5,
+        "heightInMetres": 1.8,
+        "rootStock": "M27",
+        "insectAttractor": true,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0513/3428/3424/products/Screenshot2021-10-27at15.35.46copy.png?v=1646117075"
+      },
+      {
+        "name": "cherry",
+        "widthInMetres": 1.5,
+        "heightInMetres": 1.5,
+        "rootStock": "gisela 5",
+        "insectAttractor": true,
+        "imageUrl": "https://cdn.mos.cms.futurecdn.net/BJ74Zg5pp2dr5e2uQC9jL5.jpg"
+      }
+    ]
+  }]
